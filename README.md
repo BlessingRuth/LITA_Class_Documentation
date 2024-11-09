@@ -71,7 +71,8 @@ EDA invloved exploring the sales data to answer key questions, such as:
 - Human resources had attrition rate of 26%, Life sciences had 15%, Marketing had 22%, Medical had 14%, Technical degree had 24% whike other had 13%. The Educational field with the highest attrtion rate in this other are: Human resources, Technical degree and Marketing.
 - The department with the highest attrition rate is Sales which had 21%  followed by HR which had 19% and lowest his R&D with 14%.
 - Total count of Male employee is 882, count of attrition is 150 while the attrition rate is 17%. The total count of female employee is 588, the count of attrition is 87 while the attrition rate is 15%. This shows that male had the highest number of employed staff but they also had the highest attrition rate, which ahows that the work environment is more favourable to female than male.
-- Attrition count by age band ahows 
+- Attrition count by age band shows that 38 employee out of 97 employees left while the attrition rate is 39%, 25-35 age band shows that 112 employee out of 554 employee left and the attrition rate is 20%, 35-44 age band shows that 51 employee out of 505 employee left and the attrition rate is 10%, 45-54 age band shows 25 employee out of 245 employee left with the attrition rate at 10% while for the over 55 age band, it shows that 69 out of 11 employee left and the attrition rate is 16%. This analysis gave an insight that this company workspace is more suitable for the older adult of age 35 to 54 as they had the lowest attrition rate while the much younger employee had the highest attrition rate with under 25 employee toping the chart. It also might show that people of age band of over 55 might not have the physical strength to really work the job as their attrition is third highest.
+- 
 
   ### Recommendation
   - Both gender should enjoy same working opportunities and treatment.
