@@ -17,6 +17,7 @@
 
 ### Project Overview 
 ---
+This project, part of the LITA Data Analysis training, examines employee attrition rates in an organization. The goal was to investigate why employees leave despite ongoing training and support. The analysis identifies key factors and offers actionable recommendations to reduce turnover.
 ### Data Sources 
 
 The dataset used was provided by LITA faclitators
@@ -45,7 +46,11 @@ The dataset used was provided by LITA faclitators
 
 ### Data cleaning and Preparation
 
-- 
+
+### Exploratory Data Analysis
+
+
+
 
 
 ![Screenshot 2024-11-07 020603](https://github.com/user-attachments/assets/48669637-358a-4ef5-815b-ce700c330aef)
