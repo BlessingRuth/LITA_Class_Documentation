@@ -18,11 +18,16 @@
 ---
 ### Data Sources 
 
-The dataset used eas provided by LITA faclitators
+The dataset used was provided by LITA faclitators
 
 ### Tools Used 
- - Powerbi
+ - Powerbi [*Download here*](https://powerbi.microsoft.com/desktop/)
+
+ 1. Data cleaning and transormation
+ 2. Analyzes
+ 3. Dashboard visualization
+
 
 ![Screenshot 2024-11-07 020603](https://github.com/user-attachments/assets/48669637-358a-4ef5-815b-ce700c330aef)
 ![Screenshot 2024-11-07 020637](https://github.com/user-attachments/assets/4be49a1b-19b8-44cd-a4fa-103b344f585a)
-https://powerbi.microsoft.com/desktop/
+
